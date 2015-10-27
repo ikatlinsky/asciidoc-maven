@@ -1,0 +1,21 @@
+:numbered:
+
+:toc:
+
+= Document Title
+
+== First Section
+
+Content of first section
+
+=== Nested Section
+
+Content of nested section
+
+== Second Section
+
+Content of second section
+
+include::content/setup.adoc[]
+include::content/dev-environment.adoc[]
+include::content/project-structure.adoc[]
